@@ -16,5 +16,107 @@
     "gold_answer": "no",
     "model_answer": "no",
     "raw_response": "{\"answer\": \"no\"}"
+  },
+  {
+    "id": "24996865",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "17593459",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "17208539",
+    "gold_answer": "no",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "16872243",
+    "gold_answer": "no",
+    "model_answer": "no",
+    "raw_response": "{\"answer\": \"no\"}"
+  },
+  {
+    "id": "15041506",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "24958650",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "12612531",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "24160268",
+    "gold_answer": "maybe",
+    "model_answer": "no",
+    "raw_response": "{\"answer\": \"no\"}"
+  },
+  {
+    "id": "24995509",
+    "gold_answer": "maybe",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "27549226",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "22302761",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "12145243",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "22954812",
+    "gold_answer": "maybe",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "20084845",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "10922093",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "10834864",
+    "gold_answer": "no",
+    "model_answer": "no",
+    "raw_response": "{\"answer\": \"no\"}"
+  },
+  {
+    "id": "12377809",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
   }
 ]
