@@ -1,0 +1,20 @@
+[
+  {
+    "id": "23571528",
+    "gold_answer": "no",
+    "model_answer": "no",
+    "raw_response": "{\"answer\": \"no\"}"
+  },
+  {
+    "id": "12836106",
+    "gold_answer": "yes",
+    "model_answer": "yes",
+    "raw_response": "{\"answer\": \"yes\"}"
+  },
+  {
+    "id": "10781708",
+    "gold_answer": "no",
+    "model_answer": "no",
+    "raw_response": "{\"answer\": \"no\"}"
+  }
+]
